@@ -1,7 +1,7 @@
 # Yannick Webfolio <img alt="logo webfolio" align="right" src="https://res.cloudinary.com/dyzchhb1s/image/upload/c_scale,w_49/v1610863635/favicon_nfjqaf.png">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Webfolio haut de page](docs/images/readme_image1.png)
 ![Webfolio bas de page](docs/images/readme_image2.png)
