@@ -1,0 +1,166 @@
+{
+  "personal": {
+    "name": "Yannick",
+    "full_name": "Yannick Guion-Firmin",
+    "roles": [
+      "Développeur Web front-end",
+      "Résolveur de problèmes",
+      "Mainteneur et contributeur de projets Open source"
+    ]
+  },
+  "githubUrl": "https://github.com/YannAries",
+  "résumé": "https://e.pcloud.link/publink/show?code=XZxN67ZHmy07sOM84miVB7Tf0t2tYeYuV1y",
+  "socials": [
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "link": "https://github.com/YannAries",
+      "color": "#333"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin-in",
+      "link": "https://fr.linkedin.com/in/yannick-guionfirmin",
+      "color": "#0077B5"
+    },
+    {
+      "name": "blogue personnel",
+      "icon": "canadian-maple-leaf",
+      "link": "https://personaljournal.ca/techpoutine",
+      "color": "#690b14"
+    }
+  ],
+  "educations": [
+    {
+      "degree": "",
+      "major": "AEC Développement de sites web transactionnels",
+      "name": "Cégep Saint-Jean-sur-Richelieu / Collège Ahuntsic",
+      "start": "2020",
+      "end": "2021",
+      "description": [
+        "Programmation web front-end et back-end", 
+        "Sécurité et référencement", 
+        "Base de données", 
+        "Infographie"
+      ]
+    },
+    {
+      "degree": "",
+      "major": "Formation privée Développement web full-stack",
+      "name": "LAB12, Maison Notman - Montréal",
+      "start": "Septembre 2018",
+      "end": "Décembre 2018",
+      "description": [
+        "Bootcamp en développement web de 12 semaines à vocation entreprenariale et open source à Maison Notman."
+      ]
+    },
+    {
+      "degree": "",
+      "major": "Assistant import-export bilingue",
+      "name": "AFPA Paris Politzer - Paris",
+      "start": "2012",
+      "end": "2013",
+      "description": [
+        "Suivi administratif et logistique des ventes de produits à l'import ou l'export.", 
+        "Correspond au AEC en commerce international"
+      ]
+    },
+    {
+      "degree": "",
+      "major": "DAEU A - Diplôme à l'accès aux études supérieures",
+      "name": "Université Paris Diderot 7 - Paris",
+      "start": "2009",
+      "end": "2011",
+      "description": [
+        "Correspond au DEC"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Open Source Alcohol Resources",
+      "date": "Janvier 2020",
+      "code": "alcohol-ressources",
+      "thumbnail": "alcohol-ressources_thumb.png",
+      "image": "/assets/images/projects/alcohol-ressources.png"
+    },
+    {
+      "name": "Estimateur d'outils",
+      "date": "Décembre 2020",
+      "code": "estimateur-outils",
+      "thumbnail": "legenie-1_thumb.png",
+      "image": "/assets/images/projects/legenie-1.png"
+    },
+    {
+      "name": "Saveurs Parfumées Template",
+      "date": "Décembre 2020",
+      "code": "saveurs-parfumees-template",
+      "thumbnail": "saveurs_thumb.png",
+      "image": "/assets/images/projects/saveurs.png"
+    },
+    {
+      "name": "Danièle Henkel",
+      "date": "Septembre 2017",
+      "code": "wink",
+      "thumbnail": "1_daniele_henkel_thumb.png",
+      "image": "/assets/images/projects/1_daniele_henkel.png"
+    }
+  ],
+  "works": [
+    {
+      "title": "Développeur web front-end (autodidacte)",
+      "company": "Festival FIKAS - Montréal",
+      "start": "- Janvier 2019",
+      "end": "",
+      "description": [
+        "Administration du site internet de fikasfest.com - édition 2019.",
+        "Technologie: WordPress, Linux"
+      ]
+    },
+    {
+      "title": "Concepteur de sites/Intégrateur web",
+      "company": "KIMPEX - Drummondville",
+      "start": "2018",
+      "end": "2018",
+      "description": [
+        "Adapter et intégrer des landing pages avec WordPress.",
+        "Améliorer les performances SEO.",
+        "Création de page unique pour un évènement Soucy et pour les détaillants.",
+        "Technologie: WordPress, HubSpot, PHP, macOS, Linux"
+      ]
+    },
+    {
+      "title": "Développeur web full-stack (stage Coop international)",
+      "company": "WINK STRATEGIES - Montréal",
+      "start": "Août 2017",
+      "end": "Février 2018",
+      "description": [
+        "Développer une page contact avec WordPress pour Danièle Henkel.",
+        "Reprendre un projet: générateur de signature en utilisant AJAX, jQuery, JS et PHP.",
+        "Technologie: Vue.js, JavaScript, jQuery, AJAX, PHP, macOS, Linux"
+      ]
+    },
+    {
+      "title": "Assistant transport international et logistique (stage)",
+      "company": "INTERGATE LOGISTICS - Evry, France",
+      "start": "Février 2013",
+      "end": "Avril 2013",
+      "description": [
+        "Prospection directe et indirecte.",
+        "Créer et gérer plusieurs bases de données avec Excel.",
+        "Support administratif et technique trilingue. Contact et suivi fournisseur."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification Développement web",
+      "date": "Mars - Juin 2016",
+      "granted": "WEBFORCE3, Paris",
+      "link": "https://www.wf3.fr/formation/formation-developpeur-web-et-web-mobile/",
+      "icon": "https://res.cloudinary.com/dyzchhb1s/image/upload/v1609548044/lJ82oVrg_400x400_fnfv9x.jpg",
+      "description": 
+        "Formation développeur web, intensive, pratique et complète, permet d’acquérir toutes les compétences nécessaires pour être immédiatement opérationnel en entreprise."
+    }
+  ]
+}

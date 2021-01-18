@@ -1,0 +1,31 @@
+{
+  "name": "webfolio",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "bootstrap": "^4.5.3",
+    "gridsome": "^0.7.23",
+    "vue-typer": "^1.2.0"
+  },
+  "devDependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "gh-pages": "^2.2.0",
+    "gridsome-plugin-purgecss": "^1.0.12",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.3.1",
+    "sharp": "^0.25.4",
+    "webpack-bundle-analyzer": "^4.3.0",
+    "webpack-chain": "^6.5.1"
+  }
+}
