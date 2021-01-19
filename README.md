@@ -1,5 +1,6 @@
 # Yannick Webfolio <img alt="logo webfolio" align="right" src="https://res.cloudinary.com/dyzchhb1s/image/upload/c_scale,w_49/v1610863635/favicon_nfjqaf.png">
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f51e74f-b39a-47d9-810d-8c2a59060ca3/deploy-status)](https://app.netlify.com/sites/reverent-shannon-39e93f/deploys)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
