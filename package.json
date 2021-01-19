@@ -1,5 +1,5 @@
 {
-  "name": "webfolio",
+  "name": "yannick-webfolio",
   "private": true,
   "scripts": {
     "build": "gridsome build",
