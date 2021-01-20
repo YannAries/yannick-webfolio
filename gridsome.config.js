@@ -12,7 +12,7 @@ module.exports = {
 },
   siteName: 'Yannick G-F webfolio',
   siteDescription: 'Le webfolio de Yannick G-F - développeur web front-end',
-  siteUrl: '',
+  siteUrl: 'https://www.yannickwebfolio.tech/',
   titleTemplate: `%s - Yannick G-F Webfolio`,
   transformers: {
     remark: {
