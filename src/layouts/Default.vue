@@ -7,7 +7,7 @@
           <span>© {{ new Date().getFullYear() }} Yannick Guion-Firmin</span>
         </li>
         <li>
-          <span>Développé avec <a href="https://gridsome.org/" rel="noopener noreferrer" target="_blank">Gridsome</a> et hébergé sur <a href="https://vercel.com/" rel="noopener noreferrer" target="_blank">Vercel</a></span>
+          <span>Développé avec <a href="https://gridsome.org/" rel="noopener noreferrer" target="_blank">Gridsome</a> et hébergé sur <a href="https://netlify.com/" rel="noopener noreferrer" target="_blank">Netlify</a></span>
         </li>
       </ul>
     </footer>
@@ -35,5 +35,14 @@ footer {
 
 li {
   list-style: none;
+}
+
+ul>li>span>a, ul>li>span>a:active  {
+  color: #fff;
+}
+
+ul>li>span>a:visited {
+  color: white;
+  border-bottom-color: white;
 }
 </style>
