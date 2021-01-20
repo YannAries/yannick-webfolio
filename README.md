@@ -20,7 +20,7 @@
 
 <br>
 
-[Yannick Webfolio](https://) is my personal and professional webfolio that showcase my most recent work samples, real world problem solving skills and introduction about myself.
+[Yannick Webfolio](https://www.yannickwebfolio.tech) is my personal and professional webfolio that showcase my most recent work samples, real world problem solving skills and introduction about myself.
 
 <br>
 
